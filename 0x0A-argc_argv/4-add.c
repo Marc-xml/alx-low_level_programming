@@ -5,7 +5,7 @@
 
 /**
  * isNum - check if string array is num
- * @num: string to check
+ * @num: strng to check
  * Return: 0 if it's a number
  *         1 if it's not a number
 */
