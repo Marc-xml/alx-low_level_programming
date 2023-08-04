@@ -3,7 +3,7 @@
 /**
  * main - multiplies two numbers
  * @argc: count of parametrs
- * @argv: conains aruments
+ * @argv: contains aruments
  * Return: Always returns 0
  */
 int main(int argc, char *argv[])
