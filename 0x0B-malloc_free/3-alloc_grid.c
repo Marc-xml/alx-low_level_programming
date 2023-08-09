@@ -7,7 +7,7 @@
  */
 int **alloc_grind(int width, int height)
 {
-	int *grid, i, j;
+	int **grid, i, j;
 
 	if (width || height <= 0)
 		return (NULL);
