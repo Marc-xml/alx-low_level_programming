@@ -5,7 +5,7 @@
  * @height: height of array
  * Return: returns nothing
  */
-void free_grid(**grid, int height)
+void free_grid(int **grid, int height)
 {
 	if (grid != NULL && height != 0)
 	{
