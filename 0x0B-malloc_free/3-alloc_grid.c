@@ -1,11 +1,11 @@
 #include<stdlib.h>
 /**
- * alloc_grind - return pointer to 2d array
+ * alloc_grid - return pointer to 2d array
  * @width:width of array
  * @height:height of array
  * Return: returns Null on failure
  */
-int **alloc_grind(int width, int height)
+int **alloc_grid(int width, int height)
 {
 	int **grid, i, j;
 
